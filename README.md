@@ -2,6 +2,12 @@
 ## PART 1
 Define your Calculator class here, the class should have *at least* the following attribute
 value, a private member that holds the current result of the calculator
+add two methods in public
+     * clear() - will zero the value of the calculator
+     * display() - will *return* the current result stored in the calculator
+
+
+## PART 2
 the following methods must also be included, all in public
      * add()
      * subtract()
@@ -9,15 +15,9 @@ the following methods must also be included, all in public
      * divide()
 
 
-## PART 2
-add two methods in public
-     * clear() - will zero the value of the calculator
-     * display() - will *return* the current result stored in the calculator
-
-
 ## PART 3
 create a constructor to give newly declared calculator objects a value
-add a default value of 0 to the constructor.
+* add a default value of 0 to the constructor.
 
 
 ### Setup command

@@ -15,19 +15,3 @@
 // *****PART 3*****
 // create a constructor to give newly declared calculator objects a value
 // add a default value of 0 to the constructor.
-
-class Calculator {
-    private:
-        float value;
-    public:
-        void add(float num) {value+=num;}
-        void subtract(float num) {value-=num;}
-        void multiply(float num) {value *=num;}
-        void divide(float num) {
-            if (num != 0){value/= num;}
-            else {value = 0;}
-        }
-        void clear() {value = 0;}
-        float display() {return value;}
-        Calculator(float inVal = 0) {value=inVal;}
-};
