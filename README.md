@@ -9,10 +9,10 @@ add two methods in public
 
 ## PART 2
 the following methods must also be included, all in public
-     * add()
-     * subtract()
-     * multiply()
-     * divide()
+* add()
+* subtract()
+* multiply()
+* divide()
 
 
 ## PART 3
