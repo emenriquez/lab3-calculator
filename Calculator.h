@@ -11,6 +11,9 @@
 //      subtract()
 //      multiply()
 //      divide()
+//      * For divide() function, make sure that it can handle errors
+//      * specifically, if a user tries to divide by zero, print an error message
+//      * and set the result value to zero.
 
 // *****PART 3*****
 // create a constructor to give newly declared calculator objects a value
