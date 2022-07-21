@@ -3,8 +3,8 @@
 Define your Calculator class here, the class should have *at least* the following attribute
 value, a private member that holds the current result of the calculator
 add two methods in public
-     * clear() - will zero the value of the calculator
-     * display() - will *return* the current result stored in the calculator
+* clear() - will zero the value of the calculator
+* display() - will *return* the current result stored in the calculator
 
 
 ## PART 2
