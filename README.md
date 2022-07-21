@@ -13,7 +13,7 @@ the following methods must also be included, all in public
 * subtract()
 * multiply()
 * divide()
-- make sure that the divide() function can handle errors. Specifically, if a user tries to divide by zero, print an error message and set the result value to zero.
+  * make sure that the divide() function can handle errors. Specifically, if a user tries to divide by zero, print an error message and set the result value to zero.
 
 
 ## PART 3
